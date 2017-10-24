@@ -1,0 +1,6 @@
+framework module Pods_RealTracker {
+  umbrella header "Pods-RealTracker-umbrella.h"
+
+  export *
+  module * { export * }
+}
